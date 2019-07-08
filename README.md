@@ -2,10 +2,10 @@
 This is example code for youtube videos that cover the fundamentals of python3.
 
 Profitable Python FM | Get connected
-Podcast: https://anchor.fm/profitablepythonfm
-Facebook: https://www.facebook.com/ProfitablePythonFM
-YouTube: https://www.youtube.com/channel/UCrUdn5lfdWae9-gwmRLS8pQ
-Website: https://mailchi.mp/3abd78a7e8c7/profitablepythonfm
+- Podcast: https://anchor.fm/profitablepythonfm
+- Facebook: https://www.facebook.com/ProfitablePythonFM
+- YouTube: https://www.youtube.com/channel/UCrUdn5lfdWae9-gwmRLS8pQ
+- Website: https://mailchi.mp/3abd78a7e8c7/profitablepythonfm
 
 
 # Table of Contents
