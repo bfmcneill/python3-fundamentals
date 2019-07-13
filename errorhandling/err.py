@@ -99,7 +99,7 @@ def keyboard_interrupt_error2():
     try:
         while True:
             i+=1
-            print(i,message)
+            print(i, message)
             time.sleep(1)
     except KeyboardInterrupt:
         print('quitting...')
