@@ -5,7 +5,7 @@ Profitable Python FM | Get connected
 - Podcast: https://anchor.fm/profitablepythonfm
 - Facebook: https://www.facebook.com/ProfitablePythonFM
 - YouTube: https://www.youtube.com/channel/UCrUdn5lfdWae9-gwmRLS8pQ
-- Website: https://mailchi.mp/3abd78a7e8c7/profitablepythonfm
+- Website: https://profitablepython.fm
 
 
 # Table of Contents
